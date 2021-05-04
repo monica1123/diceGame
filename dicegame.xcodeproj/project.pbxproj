@@ -13,6 +13,7 @@
 		6F68E28C263DC1960021D1B1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6F68E28A263DC1960021D1B1 /* Main.storyboard */; };
 		6F68E28E263DC1AB0021D1B1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6F68E28D263DC1AB0021D1B1 /* Assets.xcassets */; };
 		6F68E291263DC1AB0021D1B1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6F68E28F263DC1AB0021D1B1 /* LaunchScreen.storyboard */; };
+		6F75CB8E263FFE5D0000D7B0 /* diceRolling.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6F75CB8D263FFE5D0000D7B0 /* diceRolling.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		6F68E28D263DC1AB0021D1B1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6F68E290263DC1AB0021D1B1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6F68E292263DC1AB0021D1B1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6F75CB8D263FFE5D0000D7B0 /* diceRolling.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = diceRolling.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				6F68E28D263DC1AB0021D1B1 /* Assets.xcassets */,
 				6F68E28F263DC1AB0021D1B1 /* LaunchScreen.storyboard */,
 				6F68E292263DC1AB0021D1B1 /* Info.plist */,
+				6F75CB8D263FFE5D0000D7B0 /* diceRolling.mp3 */,
 			);
 			path = dicegame;
 			sourceTree = "<group>";
@@ -125,6 +128,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6F68E291263DC1AB0021D1B1 /* LaunchScreen.storyboard in Resources */,
+				6F75CB8E263FFE5D0000D7B0 /* diceRolling.mp3 in Resources */,
 				6F68E28E263DC1AB0021D1B1 /* Assets.xcassets in Resources */,
 				6F68E28C263DC1960021D1B1 /* Main.storyboard in Resources */,
 			);
