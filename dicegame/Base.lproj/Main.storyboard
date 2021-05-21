@@ -2,7 +2,7 @@
 <document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="18122" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
     <device id="retina4_0" orientation="landscape" appearance="light"/>
     <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="18092"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="18093"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
@@ -23,32 +23,32 @@
                                 <rect key="frame" x="-1" y="0.0" width="568" height="320"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="1" translatesAutoresizingMaskIntoConstraints="NO" id="UZ0-dl-g4a">
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="one" translatesAutoresizingMaskIntoConstraints="NO" id="UZ0-dl-g4a">
                                 <rect key="frame" x="22" y="126" width="56" height="60"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="tintColor" red="0.66117358209999999" green="0.5794176459" blue="0.48279625180000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             </imageView>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="2" translatesAutoresizingMaskIntoConstraints="NO" id="EXT-jT-5kq">
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="two" translatesAutoresizingMaskIntoConstraints="NO" id="EXT-jT-5kq">
                                 <rect key="frame" x="104" y="182" width="56" height="60"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="tintColor" red="0.66117358209999999" green="0.5794176459" blue="0.48279625180000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             </imageView>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="3" translatesAutoresizingMaskIntoConstraints="NO" id="tLw-MY-At3">
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="three" translatesAutoresizingMaskIntoConstraints="NO" id="tLw-MY-At3">
                                 <rect key="frame" x="201" y="204" width="56" height="60"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="tintColor" red="0.66117358209999999" green="0.5794176459" blue="0.48279625180000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             </imageView>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="4" translatesAutoresizingMaskIntoConstraints="NO" id="ln6-Gm-N6h">
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="four" translatesAutoresizingMaskIntoConstraints="NO" id="ln6-Gm-N6h">
                                 <rect key="frame" x="315" y="204" width="56" height="60"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="tintColor" red="0.66117358209999999" green="0.5794176459" blue="0.48279625180000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             </imageView>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="5" translatesAutoresizingMaskIntoConstraints="NO" id="k43-ZU-e1k">
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="five" translatesAutoresizingMaskIntoConstraints="NO" id="k43-ZU-e1k">
                                 <rect key="frame" x="409" y="182" width="56" height="60"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="tintColor" red="0.66117358209999999" green="0.5794176459" blue="0.48279625180000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             </imageView>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="6" translatesAutoresizingMaskIntoConstraints="NO" id="Eoq-BJ-aAZ">
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="six" translatesAutoresizingMaskIntoConstraints="NO" id="Eoq-BJ-aAZ">
                                 <rect key="frame" x="489" y="125" width="56" height="60"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="tintColor" red="0.66117358209999999" green="0.5794176459" blue="0.48279625180000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
@@ -116,32 +116,32 @@
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                     </view>
                     <connections>
-                        <outlet property="dice1ImageView" destination="UZ0-dl-g4a" id="JeG-ZG-ymj"/>
-                        <outlet property="dice2ImageView" destination="EXT-jT-5kq" id="t0E-iU-WTP"/>
-                        <outlet property="dice3ImageView" destination="tLw-MY-At3" id="olr-2f-MNx"/>
-                        <outlet property="dice4ImageView" destination="ln6-Gm-N6h" id="IPv-A0-4Pm"/>
-                        <outlet property="dice5ImageView" destination="k43-ZU-e1k" id="ZrL-qd-614"/>
-                        <outlet property="dice6ImageView" destination="Eoq-BJ-aAZ" id="Ydn-ok-6bT"/>
                         <outlet property="leftPoint" destination="Ktm-AV-gQ0" id="hlW-AQ-hI3"/>
                         <outlet property="rightPoint" destination="oWb-2p-1cn" id="8Ud-9F-LFD"/>
                         <outlet property="totalPoint" destination="0Zh-Ic-AsN" id="yzT-Qh-Vjq"/>
+                        <outletCollection property="leftDiceImage" destination="UZ0-dl-g4a" collectionClass="NSMutableArray" id="1BN-KA-DTV"/>
+                        <outletCollection property="leftDiceImage" destination="EXT-jT-5kq" collectionClass="NSMutableArray" id="7oL-0j-UY7"/>
+                        <outletCollection property="leftDiceImage" destination="tLw-MY-At3" collectionClass="NSMutableArray" id="Xd8-FY-a1d"/>
+                        <outletCollection property="rightDiceImage" destination="ln6-Gm-N6h" collectionClass="NSMutableArray" id="0bj-V5-ktx"/>
+                        <outletCollection property="rightDiceImage" destination="k43-ZU-e1k" collectionClass="NSMutableArray" id="Qyy-nq-dW1"/>
+                        <outletCollection property="rightDiceImage" destination="Eoq-BJ-aAZ" collectionClass="NSMutableArray" id="ULf-N0-2RU"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="387" y="-604"/>
+            <point key="canvasLocation" x="335" y="-581"/>
         </scene>
     </scenes>
     <resources>
-        <image name="1" width="100" height="116"/>
-        <image name="2" width="100" height="116"/>
-        <image name="3" width="100" height="116"/>
-        <image name="4" width="100" height="116"/>
-        <image name="5" width="100" height="116"/>
-        <image name="6" width="100" height="116"/>
         <image name="background" width="564" height="376"/>
         <image name="chip" width="860" height="733"/>
+        <image name="five" width="100" height="116"/>
+        <image name="four" width="100" height="116"/>
+        <image name="one" width="100" height="116"/>
         <image name="redButton" width="154" height="155"/>
+        <image name="six" width="100" height="116"/>
         <image name="table2" width="1276" height="806"/>
+        <image name="three" width="100" height="116"/>
+        <image name="two" width="100" height="116"/>
     </resources>
 </document>
